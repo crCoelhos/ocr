@@ -1,5 +1,5 @@
 instalar python3
-instalar o tesseract (se for usara o tesseract), através do: https://github.com/UB-Mannheim/tesseract/wiki
+instalar o tesseract (se for usar o tesseract), através do: https://github.com/UB-Mannheim/tesseract/wiki
 fazer copia da .env.example se for usar gemini OCR, via:
 
     cp .env.example .env
